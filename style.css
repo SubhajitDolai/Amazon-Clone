@@ -81,7 +81,7 @@ body {
 }
 
 #nav-location-text {
-    font-size: 12px;
+    font-size: 0.75rem;
 }
 
 #add-first {
@@ -89,15 +89,15 @@ body {
 }
 
 #add-second {
-    font-size: 14px;
-    font-weight: bolder;
+    font-size: 0.875rem;
+    font-weight: bold;
 }
 
 /* nav-fill */
 .nav-fill {
     height: 60px;
     width: 100%;
-    font-size: 14px;
+    font-size: 0.875rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -130,14 +130,14 @@ body {
     width: 100%;
     padding: 8px 0px 8px 6px;
     border: 0px;
-    font-size: 15px;
+    font-size: 0.938rem;
     background-color: white;
 }
 
 #search-button {
     height: 40px;
     width: 45px;
-    font-size: 21px;
+    font-size: 1.313rem;
     border: 0px;
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
@@ -155,7 +155,7 @@ body {
 .nav-tools {
     height: 60px;
     width: 400px;
-    font-size: 14px;
+    font-size: 0.875rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -181,7 +181,7 @@ body {
 #nav-language-text {
     height: 11px;
     width: 20px;
-    font-size: 15px;
+    font-size: 0.938rem;
     font-weight: bold;
     text-align: center;
     padding-left: 3px;
@@ -204,7 +204,7 @@ body {
 }
 
 #nav-signin-text1 {
-    font-size: 12px;
+    font-size: 0.75rem;
     padding: 10px 0px 0px 0px;
 }
 
@@ -213,7 +213,7 @@ body {
 }
 
 #nav-signin-arrow {
-    font-size: 10px;
+    font-size: 0.625rem;
 }
 
 /* nav-orders box */
@@ -225,7 +225,7 @@ body {
 }
 
 #nav-orders-text1 {
-    font-size: 12px;
+    font-size: 0.75rem;
     padding: 10px 0px 0px 0px;
 }
 
@@ -238,7 +238,7 @@ body {
     height: 50px;
     width: 84px;
     color: white;
-    font-size: 14px;
+    font-size: 0.875rem;
     padding: 0px 9px 0px 5px;
     display: flex;
     align-items: center;
@@ -246,7 +246,7 @@ body {
 }
 
 #nav-cart-logo {
-    font-size: 28px;
+    font-size: 1.75rem;
     padding: 0px 5px 0px 0px;
 }
 
@@ -260,7 +260,7 @@ body {
     height: 40px;
     background-color: #232f3e;
     color: white;
-    font-size: 14px;
+    font-size: 0.875rem;
     padding: 0px 0px 0px 15px;
     display: flex;
     align-items: center;
@@ -276,7 +276,7 @@ body {
 }
 
 #nav2-sidebar-menu-logo {
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 
 #nav2-sidebar-menu-text {
@@ -292,7 +292,7 @@ body {
 .main-section {
     background-color: #e3e3e6;
     color: #0f1111;
-    font-size: 14px;
+    font-size: 0.875rem;
     display: flex;
     justify-content: center;
 }
@@ -690,7 +690,7 @@ body {
     align-items: center;
     justify-content: center;
     color: white;
-    font-size: 14px;
+    font-size: 0.875rem;
 }
 .footer-bar a {
     color: white;
@@ -720,7 +720,7 @@ body {
 }
 #footer-a {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: lighter;
     margin: 10px 0px 10px 0px;
 }
@@ -735,7 +735,7 @@ body {
 }
 #footer-a {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: lighter;
     margin: 10px 0px 10px 0px;
 }
@@ -750,7 +750,7 @@ body {
 }
 #footer-a {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: lighter;
     margin: 10px 0px 10px 0px;
 }
@@ -765,7 +765,7 @@ body {
 }
 #footer-a {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-weight: lighter;
     margin: 10px 0px 10px 0px;
 }
