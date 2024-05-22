@@ -34,7 +34,7 @@ Feel free to fork the repository and submit pull requests.
 
 ## Contact
 
-For any questions or feedback, please contact me at [subhajitdolai999@gmail.com].
+For any questions or feedback, please contact me at subhajitdolai999@gmail.com
 
 ---
 
